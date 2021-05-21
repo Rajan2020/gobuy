@@ -1,0 +1,13 @@
+.header-style {
+  font-size: 20px !important;
+  margin-bottom: 50px !important;
+  font-family: sans-serif;
+}
+.description p {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+.description h4 {
+  color: rgb(117, 115, 115);
+  font-family: sans-serif;
+}
